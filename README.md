@@ -1,4 +1,4 @@
-= specs2 concurrency boom boom
+# specs2 concurrency boom boom
 
 specs2, in versions 3.8.7 and up, introduces some changes in how it
 concurrently runs specs. These specs seem to expose some issues with how sbt
